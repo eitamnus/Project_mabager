@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4911362-cf5d-446a-84f4-cc28bd68d811" name="Changes" comment="" />
+    <list default="true" id="e4911362-cf5d-446a-84f4-cc28bd68d811" name="Changes" comment="delete all css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +124,16 @@
       <option name="presentableId" value="Default" />
       <updated>1660224501093</updated>
       <workItem from="1660224502521" duration="25000" />
+      <workItem from="1661089896556" duration="1322000" />
     </task>
+    <task id="LOCAL-00001" summary="delete all css">
+      <created>1660947707027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660947707027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete all css" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete all css" />
   </component>
 </project>
